@@ -1,5 +1,3 @@
--- Execute game: on /learnGameDev, run love/love.exe [path to a folder with main.lua]
-
 -- todo: 
 --     [x] fixed-size window
 --     [ ] start screen ('Against pc', 'PvP')
